@@ -28,9 +28,11 @@ The function uses these parameters to compute a theoretical fit to the transvers
 
 To compile and run the macro, follow these steps:
 
-1. **Install ROOT**: Ensure ROOT is installed on your system. Follow the [ROOT installation guide](https://root.cern/install/) if needed.
+1. **Install ROOT*![Photo 1](https://github.com/user-attachments/assets/90fddcf5-623c-47b1-a973-90cdb78a504f)
+*: Ensure ROOT is installed on your system. Follow the [ROOT installation guide](https://root.cern/install/) if needed.
+2. 
 
-2. **Compile the Macro**:
+3. **Compile the Macro**:
    Open a terminal and navigate to the directory containing `tut17.C`. Run the following command:
    ```bash
    root -l -b -q tut17.C
